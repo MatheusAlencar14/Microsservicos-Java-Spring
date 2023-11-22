@@ -8,6 +8,8 @@ public class HrPayrollApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(HrPayrollApplication.class, args);
+
+		System.out.printf("Deu certo!");
 	}
 
 }
