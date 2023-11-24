@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5a3723fb-b073-458f-9e5c-05eb0d1c9082" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../hr-payroll/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-payroll/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hr-payroll/src/main/java/com/dev/hrpayroll/HrPayrollApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-payroll/src/main/java/com/dev/hrpayroll/HrPayrollApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hr-payroll/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-payroll/src/main/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/dev/hrworker/HrWorkerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dev/hrworker/HrWorkerApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -94,7 +89,21 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/hr_worker$HrWorkerApplication.ic" NAME="HrWorkerApplication Coverage Results" MODIFIED="1700837514339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.dev.hrworker.*</FILTER>
+    </SUITE>
     <SUITE FILE_PATH="coverage/hr_worker$HrWorkerApplication8002.ic" NAME="HrWorkerApplication8002 Coverage Results" MODIFIED="1700763922000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>com.dev.hrworker.*</FILTER>
     </SUITE>
