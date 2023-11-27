@@ -14,5 +14,4 @@ public class HrEurekaServerApplication {
 
 		System.out.printf("Deu certo!");
 	}
-
 }
