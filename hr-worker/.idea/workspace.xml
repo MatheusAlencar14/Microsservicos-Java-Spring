@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5a3723fb-b073-458f-9e5c-05eb0d1c9082" name="Changes" comment="" />
+    <list default="true" id="5a3723fb-b073-458f-9e5c-05eb0d1c9082" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../hr-user/src/main/java/com/dev/hruser/repositories/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hr-user/src/main/java/com/dev/hruser/resources/UserResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hr-api-gateway-zuul/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-api-gateway-zuul/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hr-user/src/main/java/com/dev/hruser/entities/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-user/src/main/java/com/dev/hruser/entities/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,7 +49,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/SimView/Desktop/Engenharia de Software/Cursos/JAVA/ProjetosSpring/microsservicos-java/hr-eureka-server",
+    "last_opened_file_path": "C:/Users/SimView/Desktop/Engenharia de Software/Cursos/JAVA/ProjetosSpring/microsservicos-java/hr-api-gateway-zuul",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2",

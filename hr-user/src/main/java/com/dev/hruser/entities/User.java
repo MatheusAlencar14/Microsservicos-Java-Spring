@@ -21,6 +21,8 @@ public class User implements Serializable {
     private Long id;
 
     private String name;
+
+    @Column(unique = true) //Não deixa o campo se repetir no BD
     private String email;
     private String password;
 
