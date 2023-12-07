@@ -5,8 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5a3723fb-b073-458f-9e5c-05eb0d1c9082" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../hr-oauth/src/main/java/com/dev/hroauth/entities/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hr-oauth/src/main/java/com/dev/hroauth/entities/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hr-oauth/src/main/java/com/dev/hroauth/feignclients/UserFeignClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hr-oauth/src/main/java/com/dev/hroauth/resources/UserResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hr-oauth/src/main/java/com/dev/hroauth/services/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hr-api-gateway-zuul/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-api-gateway-zuul/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hr-oauth/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-oauth/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../hr-oauth/src/main/java/com/dev/hroauth/HrOauthApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-oauth/src/main/java/com/dev/hroauth/HrOauthApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hr-oauth/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-oauth/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +53,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/SimView/Desktop/Engenharia de Software/Cursos/JAVA/ProjetosSpring/microsservicos-java/hr-api-gateway-zuul",
+    "last_opened_file_path": "C:/Users/SimView/Desktop/Engenharia de Software/Cursos/JAVA/ProjetosSpring/microsservicos-java/hr-worker",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2",
