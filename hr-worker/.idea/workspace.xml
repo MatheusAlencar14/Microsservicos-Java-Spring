@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5a3723fb-b073-458f-9e5c-05eb0d1c9082" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../hr-oauth/src/main/java/com/dev/hroauth/config/AppConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hr-oauth/src/main/java/com/dev/hroauth/config/AuthorizationServerConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hr-oauth/src/main/java/com/dev/hroauth/config/SecurityConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hr-api-gateway-zuul/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-api-gateway-zuul/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hr-oauth/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-oauth/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hr-oauth/src/main/java/com/dev/hroauth/entities/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-oauth/src/main/java/com/dev/hroauth/entities/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hr-oauth/src/main/java/com/dev/hroauth/services/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-oauth/src/main/java/com/dev/hroauth/services/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hr-api-gateway-zuul/src/main/java/com/dev/hrapigatewayzuul/config/ResourceServerConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-api-gateway-zuul/src/main/java/com/dev/hrapigatewayzuul/config/ResourceServerConfig.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,17 +42,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/SimView/Desktop/Engenharia de Software/Cursos/JAVA/ProjetosSpring/microsservicos-java/hr-worker",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.general"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/SimView/Desktop/Engenharia de Software/Cursos/JAVA/ProjetosSpring/microsservicos-java/hr-worker&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.general&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\SimView\Desktop\Engenharia de Software\Cursos\JAVA\ProjetosSpring\microsservicos-java\hr-worker\src\main\resources" />
